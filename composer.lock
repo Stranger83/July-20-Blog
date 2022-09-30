@@ -444,7 +444,7 @@
                 "symfony/property-info": "~2.8|~3.0",
                 "symfony/validator": "~2.2|~3.0",
                 "symfony/yaml": "~2.2|~3.0",
-                "twig/twig": "~1.10"
+                "twig/twig": "1.44.7"
             },
             "suggest": {
                 "doctrine/orm": "The Doctrine ORM integration is optional in the bundle.",
@@ -1438,7 +1438,7 @@
                 "symfony/phpunit-bridge": "~2.7|~3.0",
                 "symfony/security-bundle": "~2.4|~3.0",
                 "symfony/twig-bundle": "~2.3|~3.0",
-                "twig/twig": "~1.11|~2.0"
+                "twig/twig": "1.44.7|1.44.7"
             },
             "suggest": {
                 "symfony/expression-language": "",
@@ -1995,7 +1995,7 @@
                 "symfony/polyfill-php56": "~1.0",
                 "symfony/polyfill-php70": "~1.0",
                 "symfony/polyfill-util": "~1.0",
-                "twig/twig": "~1.26|~2.0"
+                "twig/twig": "1.44.7|1.44.7"
             },
             "conflict": {
                 "phpdocumentor/reflection-docblock": "<3.0",
