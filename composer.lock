@@ -2127,7 +2127,7 @@
                 "shasum": ""
             },
             "require": {
-                "twig/twig": "~1.20|~2.0"
+                "twig/twig": "1.44.7"
             },
             "require-dev": {
                 "symfony/translation": "~2.3"
@@ -3253,7 +3253,7 @@
             "require-dev": {
                 "doctrine/orm": "~2.4",
                 "symfony/doctrine-bridge": "~2.7|~3.0",
-                "twig/twig": "~1.18"
+                "twig/twig": "1.44.7"
             },
             "type": "symfony-bundle",
             "extra": {
